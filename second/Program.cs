@@ -6,3 +6,5 @@ Console.WriteLine("Hello, World!");
 // step 3 : git add . (name of the project)
 // step 4 : git commit -m "Initial commit" 
 // step 5 : git push origin main
+
+// extra step : git config --global user.email your@email.address
