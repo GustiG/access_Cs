@@ -8,3 +8,5 @@ Console.WriteLine("Hello, World!");
 // step 5 : git push origin main
 
 // extra step : git config --global user.email your@email.address
+
+// to update your project use steps 3 - 5
