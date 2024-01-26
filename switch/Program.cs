@@ -30,3 +30,7 @@ switch (greeting)
         System.Console.WriteLine("That must be some foreign greeting...");
         break;
 }
+
+// I'm practicing everyday after work hoping to become a programmer sometime next year (2025)
+// but right now I need some rest so I'll go to bed
+// Gusti out.
