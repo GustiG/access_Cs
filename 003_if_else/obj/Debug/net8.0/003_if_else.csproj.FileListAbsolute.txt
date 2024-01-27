@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\003_if_else\bin\Debug\net8.0\003_if_else.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\003_if_else\bin\Debug\net8.0\003_if_else.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\003_if_else\bin\Debug\net8.0\003_if_else.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\003_if_else\bin\Debug\net8.0\003_if_else.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\003_if_else\bin\Debug\net8.0\003_if_else.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\003_if_else\obj\Debug\net8.0\003_if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\003_if_else\obj\Debug\net8.0\003_if_else.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\003_if_else\obj\Debug\net8.0\003_if_else.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\003_if_else\obj\Debug\net8.0\003_if_else.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\003_if_else\obj\Debug\net8.0\003_if_else.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\003_if_else\obj\Debug\net8.0\003_if_else.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\003_if_else\obj\Debug\net8.0\refint\003_if_else.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\003_if_else\obj\Debug\net8.0\003_if_else.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\003_if_else\obj\Debug\net8.0\003_if_else.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\003_if_else\obj\Debug\net8.0\ref\003_if_else.dll
