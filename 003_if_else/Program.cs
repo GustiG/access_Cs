@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Create your username: ");
+﻿Console.WriteLine("Create your username: ");
 string username = Console.ReadLine();
 
 Console.WriteLine($"Now {username}, create your password: ");
