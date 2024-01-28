@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\006_coin_flip\obj\Debug\net8.0\006_coin_flip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\006_coin_flip\obj\Debug\net8.0\006_coin_flip.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\006_coin_flip\obj\Debug\net8.0\006_coin_flip.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\006_coin_flip\obj\Debug\net8.0\006_coin_flip.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\006_coin_flip\obj\Debug\net8.0\006_coin_flip.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\006_coin_flip\bin\Debug\net8.0\006_coin_flip.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\006_coin_flip\bin\Debug\net8.0\006_coin_flip.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\006_coin_flip\bin\Debug\net8.0\006_coin_flip.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\006_coin_flip\bin\Debug\net8.0\006_coin_flip.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\006_coin_flip\bin\Debug\net8.0\006_coin_flip.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\006_coin_flip\obj\Debug\net8.0\006_coin_flip.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\006_coin_flip\obj\Debug\net8.0\refint\006_coin_flip.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\006_coin_flip\obj\Debug\net8.0\006_coin_flip.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\006_coin_flip\obj\Debug\net8.0\006_coin_flip.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\006_coin_flip\obj\Debug\net8.0\ref\006_coin_flip.dll
