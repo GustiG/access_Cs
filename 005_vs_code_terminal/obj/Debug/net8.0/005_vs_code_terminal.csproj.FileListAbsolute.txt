@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\005_vs_code_terminal\bin\Debug\net8.0\005_vs_code_terminal.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\005_vs_code_terminal\bin\Debug\net8.0\005_vs_code_terminal.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\005_vs_code_terminal\bin\Debug\net8.0\005_vs_code_terminal.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\005_vs_code_terminal\bin\Debug\net8.0\005_vs_code_terminal.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\005_vs_code_terminal\bin\Debug\net8.0\005_vs_code_terminal.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\005_vs_code_terminal\obj\Debug\net8.0\005_vs_code_terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\005_vs_code_terminal\obj\Debug\net8.0\005_vs_code_terminal.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\005_vs_code_terminal\obj\Debug\net8.0\005_vs_code_terminal.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\005_vs_code_terminal\obj\Debug\net8.0\005_vs_code_terminal.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\005_vs_code_terminal\obj\Debug\net8.0\005_vs_code_terminal.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\005_vs_code_terminal\obj\Debug\net8.0\005_vs_code_terminal.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\005_vs_code_terminal\obj\Debug\net8.0\refint\005_vs_code_terminal.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\005_vs_code_terminal\obj\Debug\net8.0\005_vs_code_terminal.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\005_vs_code_terminal\obj\Debug\net8.0\005_vs_code_terminal.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\005_vs_code_terminal\obj\Debug\net8.0\ref\005_vs_code_terminal.dll
