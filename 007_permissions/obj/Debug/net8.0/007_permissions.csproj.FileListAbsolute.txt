@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\007_permissions\bin\Debug\net8.0\007_permissions.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\007_permissions\bin\Debug\net8.0\007_permissions.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\007_permissions\bin\Debug\net8.0\007_permissions.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\007_permissions\bin\Debug\net8.0\007_permissions.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\007_permissions\bin\Debug\net8.0\007_permissions.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\007_permissions\obj\Debug\net8.0\007_permissions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\007_permissions\obj\Debug\net8.0\007_permissions.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\007_permissions\obj\Debug\net8.0\007_permissions.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\007_permissions\obj\Debug\net8.0\007_permissions.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\007_permissions\obj\Debug\net8.0\007_permissions.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\007_permissions\obj\Debug\net8.0\007_permissions.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\007_permissions\obj\Debug\net8.0\refint\007_permissions.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\007_permissions\obj\Debug\net8.0\007_permissions.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\007_permissions\obj\Debug\net8.0\007_permissions.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\007_permissions\obj\Debug\net8.0\ref\007_permissions.dll
