@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\008_concatenate_calculate\bin\Debug\net8.0\008_concatenate_calculate.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\008_concatenate_calculate\bin\Debug\net8.0\008_concatenate_calculate.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\008_concatenate_calculate\bin\Debug\net8.0\008_concatenate_calculate.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\008_concatenate_calculate\bin\Debug\net8.0\008_concatenate_calculate.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\008_concatenate_calculate\bin\Debug\net8.0\008_concatenate_calculate.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\008_concatenate_calculate\obj\Debug\net8.0\008_concatenate_calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\008_concatenate_calculate\obj\Debug\net8.0\008_concatenate_calculate.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\008_concatenate_calculate\obj\Debug\net8.0\008_concatenate_calculate.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\008_concatenate_calculate\obj\Debug\net8.0\008_concatenate_calculate.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\008_concatenate_calculate\obj\Debug\net8.0\008_concatenate_calculate.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\008_concatenate_calculate\obj\Debug\net8.0\008_concatenate_calculate.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\008_concatenate_calculate\obj\Debug\net8.0\refint\008_concatenate_calculate.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\008_concatenate_calculate\obj\Debug\net8.0\008_concatenate_calculate.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\008_concatenate_calculate\obj\Debug\net8.0\008_concatenate_calculate.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\008_concatenate_calculate\obj\Debug\net8.0\ref\008_concatenate_calculate.dll
