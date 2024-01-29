@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\009_course_grades\bin\Debug\net8.0\009_course_grades.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\009_course_grades\bin\Debug\net8.0\009_course_grades.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\009_course_grades\bin\Debug\net8.0\009_course_grades.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\009_course_grades\bin\Debug\net8.0\009_course_grades.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\009_course_grades\bin\Debug\net8.0\009_course_grades.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\009_course_grades\obj\Debug\net8.0\009_course_grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\009_course_grades\obj\Debug\net8.0\009_course_grades.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\009_course_grades\obj\Debug\net8.0\009_course_grades.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\009_course_grades\obj\Debug\net8.0\009_course_grades.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\009_course_grades\obj\Debug\net8.0\009_course_grades.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\009_course_grades\obj\Debug\net8.0\009_course_grades.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\009_course_grades\obj\Debug\net8.0\refint\009_course_grades.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\009_course_grades\obj\Debug\net8.0\009_course_grades.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\009_course_grades\obj\Debug\net8.0\009_course_grades.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\009_course_grades\obj\Debug\net8.0\ref\009_course_grades.dll
