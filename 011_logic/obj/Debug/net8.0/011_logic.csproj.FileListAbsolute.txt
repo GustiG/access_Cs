@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_logic\obj\Debug\net8.0\011_logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_logic\obj\Debug\net8.0\011_logic.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_logic\obj\Debug\net8.0\011_logic.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_logic\obj\Debug\net8.0\011_logic.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_logic\obj\Debug\net8.0\011_logic.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_logic\bin\Debug\net8.0\011_logic.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_logic\bin\Debug\net8.0\011_logic.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_logic\bin\Debug\net8.0\011_logic.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_logic\bin\Debug\net8.0\011_logic.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_logic\bin\Debug\net8.0\011_logic.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_logic\obj\Debug\net8.0\011_logic.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_logic\obj\Debug\net8.0\refint\011_logic.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_logic\obj\Debug\net8.0\011_logic.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_logic\obj\Debug\net8.0\011_logic.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_logic\obj\Debug\net8.0\ref\011_logic.dll
