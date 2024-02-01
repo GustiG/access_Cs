@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_dice_rolls\bin\Debug\net8.0\011_dice_rolls.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_dice_rolls\bin\Debug\net8.0\011_dice_rolls.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_dice_rolls\bin\Debug\net8.0\011_dice_rolls.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_dice_rolls\bin\Debug\net8.0\011_dice_rolls.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_dice_rolls\bin\Debug\net8.0\011_dice_rolls.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_dice_rolls\obj\Debug\net8.0\011_dice_rolls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_dice_rolls\obj\Debug\net8.0\011_dice_rolls.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_dice_rolls\obj\Debug\net8.0\011_dice_rolls.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_dice_rolls\obj\Debug\net8.0\011_dice_rolls.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_dice_rolls\obj\Debug\net8.0\011_dice_rolls.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_dice_rolls\obj\Debug\net8.0\011_dice_rolls.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_dice_rolls\obj\Debug\net8.0\refint\011_dice_rolls.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_dice_rolls\obj\Debug\net8.0\011_dice_rolls.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_dice_rolls\obj\Debug\net8.0\011_dice_rolls.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\011_dice_rolls\obj\Debug\net8.0\ref\011_dice_rolls.dll
