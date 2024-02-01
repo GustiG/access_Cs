@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("011_dice_rolls")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+994dba3a2e7b7493165686730b2d52acab2e55f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7da4c8a372426dd8d07899a7d0cbe0823fb50180")]
 [assembly: System.Reflection.AssemblyProductAttribute("011_dice_rolls")]
 [assembly: System.Reflection.AssemblyTitleAttribute("011_dice_rolls")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
