@@ -32,4 +32,11 @@ if (roll1 == roll2 || roll2 == roll3 || roll1 == roll3)
 Console.WriteLine($"You rolled: {roll1} + {roll2} + {roll3} = {total} points & {bonus} bonus.");
 Console.WriteLine($"Your total is: {total+bonus}");
 
-if ()
+if (total+bonus > 15)
+{
+    Console.Write("Congratulations. You won!");
+}
+else
+{
+    Console.WriteLine("You lost again.");
+}
