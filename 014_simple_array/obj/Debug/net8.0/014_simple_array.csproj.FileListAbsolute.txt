@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\014_simple_array\bin\Debug\net8.0\014_simple_array.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\014_simple_array\bin\Debug\net8.0\014_simple_array.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\014_simple_array\bin\Debug\net8.0\014_simple_array.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\014_simple_array\bin\Debug\net8.0\014_simple_array.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\014_simple_array\bin\Debug\net8.0\014_simple_array.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\014_simple_array\obj\Debug\net8.0\014_simple_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\014_simple_array\obj\Debug\net8.0\014_simple_array.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\014_simple_array\obj\Debug\net8.0\014_simple_array.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\014_simple_array\obj\Debug\net8.0\014_simple_array.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\014_simple_array\obj\Debug\net8.0\014_simple_array.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\014_simple_array\obj\Debug\net8.0\014_simple_array.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\014_simple_array\obj\Debug\net8.0\refint\014_simple_array.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\014_simple_array\obj\Debug\net8.0\014_simple_array.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\014_simple_array\obj\Debug\net8.0\014_simple_array.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\014_simple_array\obj\Debug\net8.0\ref\014_simple_array.dll
