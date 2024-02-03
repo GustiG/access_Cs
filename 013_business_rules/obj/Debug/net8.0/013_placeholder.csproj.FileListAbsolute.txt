@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\013_business_rules\bin\Debug\net8.0\013_placeholder.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\013_business_rules\bin\Debug\net8.0\013_placeholder.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\013_business_rules\bin\Debug\net8.0\013_placeholder.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\013_business_rules\bin\Debug\net8.0\013_placeholder.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\013_business_rules\bin\Debug\net8.0\013_placeholder.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\013_business_rules\obj\Debug\net8.0\013_placeholder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\013_business_rules\obj\Debug\net8.0\013_placeholder.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\013_business_rules\obj\Debug\net8.0\013_placeholder.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\013_business_rules\obj\Debug\net8.0\013_placeholder.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\013_business_rules\obj\Debug\net8.0\013_placeholder.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\013_business_rules\obj\Debug\net8.0\013_placeholder.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\013_business_rules\obj\Debug\net8.0\refint\013_placeholder.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\013_business_rules\obj\Debug\net8.0\013_placeholder.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\013_business_rules\obj\Debug\net8.0\013_placeholder.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\013_business_rules\obj\Debug\net8.0\ref\013_placeholder.dll
