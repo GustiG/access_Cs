@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "015_foreach_loop/1.0.0": {
+        "runtime": {
+          "015_foreach_loop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "015_foreach_loop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
