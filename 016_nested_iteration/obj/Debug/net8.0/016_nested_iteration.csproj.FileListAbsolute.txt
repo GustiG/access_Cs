@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\016_nested_iteration\bin\Debug\net8.0\016_nested_iteration.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\016_nested_iteration\bin\Debug\net8.0\016_nested_iteration.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\016_nested_iteration\bin\Debug\net8.0\016_nested_iteration.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\016_nested_iteration\bin\Debug\net8.0\016_nested_iteration.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\016_nested_iteration\bin\Debug\net8.0\016_nested_iteration.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\016_nested_iteration\obj\Debug\net8.0\016_nested_iteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\016_nested_iteration\obj\Debug\net8.0\016_nested_iteration.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\016_nested_iteration\obj\Debug\net8.0\016_nested_iteration.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\016_nested_iteration\obj\Debug\net8.0\016_nested_iteration.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\016_nested_iteration\obj\Debug\net8.0\016_nested_iteration.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\016_nested_iteration\obj\Debug\net8.0\016_nested_iteration.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\016_nested_iteration\obj\Debug\net8.0\refint\016_nested_iteration.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\016_nested_iteration\obj\Debug\net8.0\016_nested_iteration.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\016_nested_iteration\obj\Debug\net8.0\016_nested_iteration.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\016_nested_iteration\obj\Debug\net8.0\ref\016_nested_iteration.dll
