@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\017_conventions\bin\Debug\net8.0\017_conventions.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\017_conventions\bin\Debug\net8.0\017_conventions.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\017_conventions\bin\Debug\net8.0\017_conventions.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\017_conventions\bin\Debug\net8.0\017_conventions.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\017_conventions\bin\Debug\net8.0\017_conventions.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\017_conventions\obj\Debug\net8.0\017_conventions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\017_conventions\obj\Debug\net8.0\017_conventions.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\017_conventions\obj\Debug\net8.0\017_conventions.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\017_conventions\obj\Debug\net8.0\017_conventions.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\017_conventions\obj\Debug\net8.0\017_conventions.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\017_conventions\obj\Debug\net8.0\017_conventions.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\017_conventions\obj\Debug\net8.0\refint\017_conventions.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\017_conventions\obj\Debug\net8.0\017_conventions.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\017_conventions\obj\Debug\net8.0\017_conventions.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\017_conventions\obj\Debug\net8.0\ref\017_conventions.dll
