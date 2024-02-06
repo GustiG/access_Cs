@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\018_code_readability\bin\Debug\net8.0\018_code_readability.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\018_code_readability\bin\Debug\net8.0\018_code_readability.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\018_code_readability\bin\Debug\net8.0\018_code_readability.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\018_code_readability\bin\Debug\net8.0\018_code_readability.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\018_code_readability\bin\Debug\net8.0\018_code_readability.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\018_code_readability\obj\Debug\net8.0\018_code_readability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\018_code_readability\obj\Debug\net8.0\018_code_readability.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\018_code_readability\obj\Debug\net8.0\018_code_readability.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\018_code_readability\obj\Debug\net8.0\018_code_readability.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\018_code_readability\obj\Debug\net8.0\018_code_readability.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\018_code_readability\obj\Debug\net8.0\018_code_readability.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\018_code_readability\obj\Debug\net8.0\refint\018_code_readability.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\018_code_readability\obj\Debug\net8.0\018_code_readability.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\018_code_readability\obj\Debug\net8.0\018_code_readability.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\018_code_readability\obj\Debug\net8.0\ref\018_code_readability.dll
