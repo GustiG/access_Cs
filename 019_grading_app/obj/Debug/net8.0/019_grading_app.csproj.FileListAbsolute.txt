@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\019_grading_app\bin\Debug\net8.0\019_grading_app.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\019_grading_app\bin\Debug\net8.0\019_grading_app.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\019_grading_app\bin\Debug\net8.0\019_grading_app.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\019_grading_app\bin\Debug\net8.0\019_grading_app.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\019_grading_app\bin\Debug\net8.0\019_grading_app.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\019_grading_app\obj\Debug\net8.0\019_grading_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\019_grading_app\obj\Debug\net8.0\019_grading_app.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\019_grading_app\obj\Debug\net8.0\019_grading_app.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\019_grading_app\obj\Debug\net8.0\019_grading_app.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\019_grading_app\obj\Debug\net8.0\019_grading_app.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\019_grading_app\obj\Debug\net8.0\019_grading_app.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\019_grading_app\obj\Debug\net8.0\refint\019_grading_app.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\019_grading_app\obj\Debug\net8.0\019_grading_app.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\019_grading_app\obj\Debug\net8.0\019_grading_app.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\019_grading_app\obj\Debug\net8.0\ref\019_grading_app.dll
