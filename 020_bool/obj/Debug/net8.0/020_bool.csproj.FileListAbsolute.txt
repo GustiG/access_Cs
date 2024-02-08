@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\020_bool\bin\Debug\net8.0\020_bool.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\020_bool\bin\Debug\net8.0\020_bool.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\020_bool\bin\Debug\net8.0\020_bool.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\020_bool\bin\Debug\net8.0\020_bool.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\020_bool\bin\Debug\net8.0\020_bool.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\020_bool\obj\Debug\net8.0\020_bool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\020_bool\obj\Debug\net8.0\020_bool.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\020_bool\obj\Debug\net8.0\020_bool.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\020_bool\obj\Debug\net8.0\020_bool.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\020_bool\obj\Debug\net8.0\020_bool.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\020_bool\obj\Debug\net8.0\020_bool.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\020_bool\obj\Debug\net8.0\refint\020_bool.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\020_bool\obj\Debug\net8.0\020_bool.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\020_bool\obj\Debug\net8.0\020_bool.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\020_bool\obj\Debug\net8.0\ref\020_bool.dll
