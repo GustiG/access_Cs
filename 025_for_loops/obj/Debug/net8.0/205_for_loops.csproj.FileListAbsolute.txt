@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\025_for_loops\bin\Debug\net8.0\205_for_loops.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\025_for_loops\bin\Debug\net8.0\205_for_loops.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\025_for_loops\bin\Debug\net8.0\205_for_loops.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\025_for_loops\bin\Debug\net8.0\205_for_loops.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\025_for_loops\bin\Debug\net8.0\205_for_loops.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\025_for_loops\obj\Debug\net8.0\205_for_loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\025_for_loops\obj\Debug\net8.0\205_for_loops.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\025_for_loops\obj\Debug\net8.0\205_for_loops.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\025_for_loops\obj\Debug\net8.0\205_for_loops.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\025_for_loops\obj\Debug\net8.0\205_for_loops.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\025_for_loops\obj\Debug\net8.0\205_for_loops.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\025_for_loops\obj\Debug\net8.0\refint\205_for_loops.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\025_for_loops\obj\Debug\net8.0\205_for_loops.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\025_for_loops\obj\Debug\net8.0\205_for_loops.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\025_for_loops\obj\Debug\net8.0\ref\205_for_loops.dll

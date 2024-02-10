@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "205_for_loops/1.0.0": {
+        "runtime": {
+          "205_for_loops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "205_for_loops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
