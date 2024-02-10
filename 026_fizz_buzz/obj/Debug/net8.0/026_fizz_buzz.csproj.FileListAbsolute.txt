@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\026_fizz_buzz\bin\Debug\net8.0\026_fizz_buzz.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\026_fizz_buzz\bin\Debug\net8.0\026_fizz_buzz.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\026_fizz_buzz\bin\Debug\net8.0\026_fizz_buzz.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\026_fizz_buzz\bin\Debug\net8.0\026_fizz_buzz.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\026_fizz_buzz\bin\Debug\net8.0\026_fizz_buzz.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\026_fizz_buzz\obj\Debug\net8.0\026_fizz_buzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\026_fizz_buzz\obj\Debug\net8.0\026_fizz_buzz.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\026_fizz_buzz\obj\Debug\net8.0\026_fizz_buzz.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\026_fizz_buzz\obj\Debug\net8.0\026_fizz_buzz.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\026_fizz_buzz\obj\Debug\net8.0\026_fizz_buzz.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\026_fizz_buzz\obj\Debug\net8.0\026_fizz_buzz.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\026_fizz_buzz\obj\Debug\net8.0\refint\026_fizz_buzz.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\026_fizz_buzz\obj\Debug\net8.0\026_fizz_buzz.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\026_fizz_buzz\obj\Debug\net8.0\026_fizz_buzz.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\026_fizz_buzz\obj\Debug\net8.0\ref\026_fizz_buzz.dll
