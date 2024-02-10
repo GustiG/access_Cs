@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\023_code_fix\bin\Debug\net8.0\023_code_fix.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\023_code_fix\bin\Debug\net8.0\023_code_fix.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\023_code_fix\bin\Debug\net8.0\023_code_fix.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\023_code_fix\bin\Debug\net8.0\023_code_fix.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\023_code_fix\bin\Debug\net8.0\023_code_fix.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\023_code_fix\obj\Debug\net8.0\023_code_fix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\023_code_fix\obj\Debug\net8.0\023_code_fix.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\023_code_fix\obj\Debug\net8.0\023_code_fix.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\023_code_fix\obj\Debug\net8.0\023_code_fix.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\023_code_fix\obj\Debug\net8.0\023_code_fix.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\023_code_fix\obj\Debug\net8.0\023_code_fix.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\023_code_fix\obj\Debug\net8.0\refint\023_code_fix.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\023_code_fix\obj\Debug\net8.0\023_code_fix.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\023_code_fix\obj\Debug\net8.0\023_code_fix.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\023_code_fix\obj\Debug\net8.0\ref\023_code_fix.dll
