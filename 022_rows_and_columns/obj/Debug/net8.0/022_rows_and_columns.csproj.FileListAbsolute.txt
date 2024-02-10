@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\022_rows_and_columns\bin\Debug\net8.0\022_rows_and_columns.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\022_rows_and_columns\bin\Debug\net8.0\022_rows_and_columns.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\022_rows_and_columns\bin\Debug\net8.0\022_rows_and_columns.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\022_rows_and_columns\bin\Debug\net8.0\022_rows_and_columns.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\022_rows_and_columns\bin\Debug\net8.0\022_rows_and_columns.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\022_rows_and_columns\obj\Debug\net8.0\022_rows_and_columns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\022_rows_and_columns\obj\Debug\net8.0\022_rows_and_columns.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\022_rows_and_columns\obj\Debug\net8.0\022_rows_and_columns.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\022_rows_and_columns\obj\Debug\net8.0\022_rows_and_columns.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\022_rows_and_columns\obj\Debug\net8.0\022_rows_and_columns.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\022_rows_and_columns\obj\Debug\net8.0\022_rows_and_columns.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\022_rows_and_columns\obj\Debug\net8.0\refint\022_rows_and_columns.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\022_rows_and_columns\obj\Debug\net8.0\022_rows_and_columns.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\022_rows_and_columns\obj\Debug\net8.0\022_rows_and_columns.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\022_rows_and_columns\obj\Debug\net8.0\ref\022_rows_and_columns.dll
