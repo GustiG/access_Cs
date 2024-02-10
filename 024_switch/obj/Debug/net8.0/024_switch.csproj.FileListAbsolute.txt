@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\024_switch\bin\Debug\net8.0\024_switch.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\024_switch\bin\Debug\net8.0\024_switch.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\024_switch\bin\Debug\net8.0\024_switch.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\024_switch\bin\Debug\net8.0\024_switch.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\024_switch\bin\Debug\net8.0\024_switch.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\024_switch\obj\Debug\net8.0\024_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\024_switch\obj\Debug\net8.0\024_switch.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\024_switch\obj\Debug\net8.0\024_switch.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\024_switch\obj\Debug\net8.0\024_switch.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\024_switch\obj\Debug\net8.0\024_switch.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\024_switch\obj\Debug\net8.0\024_switch.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\024_switch\obj\Debug\net8.0\refint\024_switch.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\024_switch\obj\Debug\net8.0\024_switch.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\024_switch\obj\Debug\net8.0\024_switch.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\024_switch\obj\Debug\net8.0\ref\024_switch.dll
