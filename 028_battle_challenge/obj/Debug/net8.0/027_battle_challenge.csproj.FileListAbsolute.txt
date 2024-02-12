@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\028_battle_challenge\bin\Debug\net8.0\027_battle_challenge.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\028_battle_challenge\bin\Debug\net8.0\027_battle_challenge.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\028_battle_challenge\bin\Debug\net8.0\027_battle_challenge.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\028_battle_challenge\bin\Debug\net8.0\027_battle_challenge.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\028_battle_challenge\bin\Debug\net8.0\027_battle_challenge.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\028_battle_challenge\obj\Debug\net8.0\027_battle_challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\028_battle_challenge\obj\Debug\net8.0\027_battle_challenge.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\028_battle_challenge\obj\Debug\net8.0\027_battle_challenge.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\028_battle_challenge\obj\Debug\net8.0\027_battle_challenge.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\028_battle_challenge\obj\Debug\net8.0\027_battle_challenge.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\028_battle_challenge\obj\Debug\net8.0\027_battle_challenge.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\028_battle_challenge\obj\Debug\net8.0\refint\027_battle_challenge.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\028_battle_challenge\obj\Debug\net8.0\027_battle_challenge.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\028_battle_challenge\obj\Debug\net8.0\027_battle_challenge.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\028_battle_challenge\obj\Debug\net8.0\ref\027_battle_challenge.dll
