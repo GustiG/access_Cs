@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\029_user_input_validation\bin\Debug\net8.0\029_user_input_validation.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\029_user_input_validation\bin\Debug\net8.0\029_user_input_validation.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\029_user_input_validation\bin\Debug\net8.0\029_user_input_validation.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\029_user_input_validation\bin\Debug\net8.0\029_user_input_validation.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\029_user_input_validation\bin\Debug\net8.0\029_user_input_validation.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\029_user_input_validation\obj\Debug\net8.0\029_user_input_validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\029_user_input_validation\obj\Debug\net8.0\029_user_input_validation.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\029_user_input_validation\obj\Debug\net8.0\029_user_input_validation.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\029_user_input_validation\obj\Debug\net8.0\029_user_input_validation.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\029_user_input_validation\obj\Debug\net8.0\029_user_input_validation.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\029_user_input_validation\obj\Debug\net8.0\029_user_input_validation.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\029_user_input_validation\obj\Debug\net8.0\refint\029_user_input_validation.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\029_user_input_validation\obj\Debug\net8.0\029_user_input_validation.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\029_user_input_validation\obj\Debug\net8.0\029_user_input_validation.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\029_user_input_validation\obj\Debug\net8.0\ref\029_user_input_validation.dll
