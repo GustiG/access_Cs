@@ -1,5 +1,9 @@
 ﻿var names = new List<string> { "Scott", "Ana", "Felipe " }; // var = local variable type / same as List<string names = new List<string>
 
+names.Add("David");
+names.Add("Damian");
+names.Add("Maria");             
+
 foreach (var name in names)
 {
     Console.WriteLine($"Hello {name.ToUpper()}!");
@@ -9,5 +13,7 @@ foreach (var name in names)
 
 for (int i = 0; i < names.Count; i++)
 {
-    Console.WriteLine($"Hello {names[i].ToUpper()}!");
+    Console.WriteLine($"Hello {names[i].ToUpper()}!"); // .ToUpper generates a new list, the string is immutable
 }
+
+
