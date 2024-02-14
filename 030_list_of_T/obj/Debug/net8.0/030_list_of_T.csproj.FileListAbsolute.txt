@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\030_list_of_T\bin\Debug\net8.0\030_list_of_T.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\030_list_of_T\bin\Debug\net8.0\030_list_of_T.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\030_list_of_T\bin\Debug\net8.0\030_list_of_T.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\030_list_of_T\bin\Debug\net8.0\030_list_of_T.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\030_list_of_T\bin\Debug\net8.0\030_list_of_T.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\030_list_of_T\obj\Debug\net8.0\030_list_of_T.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\030_list_of_T\obj\Debug\net8.0\030_list_of_T.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\030_list_of_T\obj\Debug\net8.0\030_list_of_T.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\030_list_of_T\obj\Debug\net8.0\030_list_of_T.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\030_list_of_T\obj\Debug\net8.0\030_list_of_T.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\030_list_of_T\obj\Debug\net8.0\030_list_of_T.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\030_list_of_T\obj\Debug\net8.0\refint\030_list_of_T.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\030_list_of_T\obj\Debug\net8.0\030_list_of_T.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\030_list_of_T\obj\Debug\net8.0\030_list_of_T.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\030_list_of_T\obj\Debug\net8.0\ref\030_list_of_T.dll
