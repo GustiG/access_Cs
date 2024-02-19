@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\032_sort_and_search\bin\Debug\net8.0\032_sort_and_search.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\032_sort_and_search\bin\Debug\net8.0\032_sort_and_search.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\032_sort_and_search\bin\Debug\net8.0\032_sort_and_search.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\032_sort_and_search\bin\Debug\net8.0\032_sort_and_search.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\032_sort_and_search\bin\Debug\net8.0\032_sort_and_search.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\032_sort_and_search\obj\Debug\net8.0\032_sort_and_search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\032_sort_and_search\obj\Debug\net8.0\032_sort_and_search.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\032_sort_and_search\obj\Debug\net8.0\032_sort_and_search.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\032_sort_and_search\obj\Debug\net8.0\032_sort_and_search.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\032_sort_and_search\obj\Debug\net8.0\032_sort_and_search.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\032_sort_and_search\obj\Debug\net8.0\032_sort_and_search.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\032_sort_and_search\obj\Debug\net8.0\refint\032_sort_and_search.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\032_sort_and_search\obj\Debug\net8.0\032_sort_and_search.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\032_sort_and_search\obj\Debug\net8.0\032_sort_and_search.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\032_sort_and_search\obj\Debug\net8.0\ref\032_sort_and_search.dll
