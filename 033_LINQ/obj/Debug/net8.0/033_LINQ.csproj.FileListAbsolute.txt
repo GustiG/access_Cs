@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\033_LINQ\bin\Debug\net8.0\033_LINQ.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\033_LINQ\bin\Debug\net8.0\033_LINQ.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\033_LINQ\bin\Debug\net8.0\033_LINQ.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\033_LINQ\bin\Debug\net8.0\033_LINQ.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\033_LINQ\bin\Debug\net8.0\033_LINQ.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\033_LINQ\obj\Debug\net8.0\033_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\033_LINQ\obj\Debug\net8.0\033_LINQ.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\033_LINQ\obj\Debug\net8.0\033_LINQ.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\033_LINQ\obj\Debug\net8.0\033_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\033_LINQ\obj\Debug\net8.0\033_LINQ.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\033_LINQ\obj\Debug\net8.0\033_LINQ.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\033_LINQ\obj\Debug\net8.0\refint\033_LINQ.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\033_LINQ\obj\Debug\net8.0\033_LINQ.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\033_LINQ\obj\Debug\net8.0\033_LINQ.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\033_LINQ\obj\Debug\net8.0\ref\033_LINQ.dll
