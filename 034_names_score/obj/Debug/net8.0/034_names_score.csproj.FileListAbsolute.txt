@@ -1,0 +1,15 @@
+C:\Users\Asus\dotnet-course-code\if\access_Cs\034_names_score\bin\Debug\net8.0\034_names_score.exe
+C:\Users\Asus\dotnet-course-code\if\access_Cs\034_names_score\bin\Debug\net8.0\034_names_score.deps.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\034_names_score\bin\Debug\net8.0\034_names_score.runtimeconfig.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\034_names_score\bin\Debug\net8.0\034_names_score.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\034_names_score\bin\Debug\net8.0\034_names_score.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\034_names_score\obj\Debug\net8.0\034_names_score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\dotnet-course-code\if\access_Cs\034_names_score\obj\Debug\net8.0\034_names_score.AssemblyInfoInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\034_names_score\obj\Debug\net8.0\034_names_score.AssemblyInfo.cs
+C:\Users\Asus\dotnet-course-code\if\access_Cs\034_names_score\obj\Debug\net8.0\034_names_score.csproj.CoreCompileInputs.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\034_names_score\obj\Debug\net8.0\034_names_score.sourcelink.json
+C:\Users\Asus\dotnet-course-code\if\access_Cs\034_names_score\obj\Debug\net8.0\034_names_score.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\034_names_score\obj\Debug\net8.0\refint\034_names_score.dll
+C:\Users\Asus\dotnet-course-code\if\access_Cs\034_names_score\obj\Debug\net8.0\034_names_score.pdb
+C:\Users\Asus\dotnet-course-code\if\access_Cs\034_names_score\obj\Debug\net8.0\034_names_score.genruntimeconfig.cache
+C:\Users\Asus\dotnet-course-code\if\access_Cs\034_names_score\obj\Debug\net8.0\ref\034_names_score.dll
