@@ -3,11 +3,11 @@
 // same name can't be used twice
 // search for a name and display the score
 
-var names  = new List<string> {};
-var scores = new List<int>    {};
+var names  = new List<string> ();
+var scores = new List<int>    ();
 
-string name = "";
-int score = 0;
+string name;
+int score;
 
 Console.WriteLine("Enter a name and a score (write 'noname' to exit):\n");
 
@@ -27,9 +27,9 @@ do
 
 } while (true);
 
-Console.WriteLine("\nNames and Scores:");
+Console.WriteLine("\nNames & Scores:");
 for (int i = 0; i < names.Count; i++)
 {
-    Console.WriteLine($"{names[i]}: {scores[i]}");
+    Console.WriteLine($"{names[i]}: \t{scores[i]}");
 }
     
